@@ -1,0 +1,22 @@
+# SQLite binary files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup and temporary editor files
+*.bak
+*.tmp
+*.log
+*.swp
+*~
+
+# IDE directories
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
